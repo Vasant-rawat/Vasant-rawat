@@ -1,6 +1,6 @@
-<div align="center">
-  
 # ⚡️ Vasant Rawat
+
+<div align="center">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CommandLineVasant)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasant-rawat)
@@ -8,15 +8,11 @@
 
 ### 🧙‍♂️ Command-Line Wizard | 🚀 Neovim Enthusiast | 🐧 Linux Artisan
 
-</div>
-
-> *"Why use a mouse when you can do everything from the terminal?"* - My Life Motto
-
-<div align="center">
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CE4F7&center=true&vCenter=true&width=435&lines=Neovim+Enthusiast;CLI+Wizard;Linux+Power+User;dwm+Ricing+Addict;Automation+Engineer)
 
 </div>
+
+> *"Why use a mouse when you can do everything from the terminal?"* - My Life Motto
 
 ## 🎯 About Me
 
