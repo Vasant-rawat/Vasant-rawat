@@ -117,14 +117,6 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasant-rawat&layout=compact&theme=catppuccin"/>
 </div>
 
-## 🎵 What's Playing
-
-<div align="center">
-       
-       ![Jokes](https://readme-jokes.vercel.app/api)
-       
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
