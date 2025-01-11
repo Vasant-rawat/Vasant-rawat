@@ -120,9 +120,7 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
 ## 🎵 What's Playing
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duy96xowhkb6p0krz3vy91vgx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 ## 📫 Let's Connect!
