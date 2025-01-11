@@ -86,7 +86,7 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
 <h3 align="center">🎨 dwm Configuration</h3>
 <div align="center">
   <a href="https://github.com/Vasant-rawat/dwm-readytoUse-Config" target="_blank">
-    <img src="https://raw.githubusercontent.com/Vasant-rawat/dwm-readytoUse-Config/master/dwm.png" width="100" alt="dwm Logo"/>
+    <img src="![image](https://github.com/user-attachments/assets/1505fddc-e93a-4424-b586-162740651950)" width="100" alt="dwm Logo"/>
   </a>
   <p><strong>A minimal, yet powerful dwm setup</strong></p>
   <p>Where form meets function 🎯</p>
