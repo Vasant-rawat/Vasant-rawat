@@ -120,20 +120,21 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
 <div align="center">
 
 ```mermaid
-mindmap
-  root((2025 Goals))
-    Neovim
-      Contribute to core
-      Create plugins
-      Master Lua
-    Development
-      Learn Rust
-      CLI Tools
-      Android Apps
-    Community
-      Tech Blog
-      YouTube Channel
-      Open Source
+    mindmap
+      root((2025 Goals))
+        Neovim
+          Contribute to core
+          Create plugins
+          Master Lua
+        Development
+          Learn Rust
+          CLI Tools
+          Android Apps
+        Community
+          Tech Blog
+          YouTube Channel
+          Open Source
+
 ```
 
 </div>
