@@ -18,7 +18,6 @@ Here's a snapshot of my tech stack and interests:
 ## 🔭 What I'm Currently Working On  
 - **Crafting the perfect Neovim setup**: Building a custom config with LSP, TreeSitter, and Telescope
 - **Fine-tuning my dwm rice**: Creating a minimalist setup that's both functional and aesthetically pleasing
-- **Developing a Medicine Tracker App**: A Kotlin + Jetpack Compose project for my final year
 - **Mastering Jetpack Compose**: Diving deeper into modern Android development
 - **Exploring Rust**: Unlocking the secrets of high-performance systems programming
 
