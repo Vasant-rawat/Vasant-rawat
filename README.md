@@ -121,8 +121,7 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOURUSERID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=duy96xowhkb6p0krz3vy91vgx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duy96xowhkb6p0krz3vy91vgx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
