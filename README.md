@@ -115,30 +115,6 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasant-rawat&layout=compact&theme=catppuccin"/>
 </div>
 
-## 🎯 2025 Goals
-
-<div align="center">
-
-```mermaid
-    mindmap
-      root((2025 Goals))
-        Neovim
-          Contribute to core
-          Create plugins
-          Master Lua
-        Development
-          Learn Rust
-          CLI Tools
-          Android Apps
-        Community
-          Tech Blog
-          YouTube Channel
-          Open Source
-
-```
-
-</div>
-
 ## 🎵 What's Playing
 
 <div align="center">
