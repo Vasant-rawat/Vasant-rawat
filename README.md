@@ -1,66 +1,192 @@
-# 👋 Hi, I'm Vasant Rawat!  
+<div align="center">
+  
+# ⚡️ Vasant Rawat
 
-Welcome to my GitHub profile! I'm a **command-line wizard**, **Neovim enthusiast**, and **Linux tinkerer**. I love building minimalist tools, automating everything in sight, and crafting the perfect development environment. When I'm not coding, you'll find me obsessing over my Neovim config or trying to convince my friends to switch to a tiling window manager.  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CommandLineVasant)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasant-rawat)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/VimWarrior)
 
----
+### 🧙‍♂️ Command-Line Wizard | 🚀 Neovim Enthusiast | 🐧 Linux Artisan
 
-## 🛠️ Technologies & Tools  
+</div>
 
-Here's a snapshot of my tech stack and interests:  
-- **Languages**: C, Python, Shell Scripting, Kotlin, Java, JavaScript, Lua (for Neovim config)
-- **Editors & IDEs**: Neovim (with custom config & LazyVim), VSCode (as backup)
-- **Frameworks & Tools**: Git, Docker, Jetpack Compose, tmux, fzf, ripgrep
-- **Operating Systems**: Debian, Arch Linux, Fedora, and Windows (*when absolutely necessary* 😅)
-- **Interests**: Window Managers (dwm, i3), Automating workflows, Custom CLI tools, Neovim Configuration, and mastering the **Art of Dotfiles**
+> *"Why use a mouse when you can do everything from the terminal?"* - My Life Motto
 
----
+<div align="center">
 
-## 🔭 What I'm Currently Working On  
-- **Crafting the perfect Neovim setup**: Building a custom config with LSP, TreeSitter, and Telescope
-- **Fine-tuning my dwm rice**: Creating a minimalist setup that's both functional and aesthetically pleasing
-- **Mastering Jetpack Compose**: Diving deeper into modern Android development
-- **Exploring Rust**: Unlocking the secrets of high-performance systems programming
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CE4F7&center=true&vCenter=true&width=435&lines=Neovim+Enthusiast;CLI+Wizard;Linux+Power+User;dwm+Ricing+Addict;Automation+Engineer)
 
----
+</div>
 
-## 🚀 Development Environment  
+## 🎯 About Me
 
-My daily driver setup includes:
-- **Editor**: Neovim with a mix of custom configuration and LazyVim
-- **Terminal**: Alacritty with tmux
-- **Shell**: zsh with custom aliases and functions
+Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is life. My journey began with a fateful battle with NVIDIA drivers, and now I'm hooked on the CLI life. When I'm not crafting the perfect Neovim config or ricing my dwm setup, you'll find me automating everything in sight because *why do something manually when you can script it?*
+
+<div align="center">
+
+### 🛠 Tech Arsenal
+
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+## 🌟 Workspace Specs
+
+<table>
+<tr>
+<td>
+
+### 💻 Daily Drivers
+- **OS**: Arch Linux (btw)
+- **WM**: dwm with custom patches
+- **Terminal**: Alacritty + tmux
+- **Shell**: zsh + custom plugins
+- **Editor**: Neovim + LazyVim
 - **Font**: JetBrainsMono Nerd Font
-- **Color Scheme**: Catppuccin (because life's too short for boring themes)
+- **Theme**: Catppuccin 🌺
 
----
+</td>
+<td>
 
-## 🌟 Featured Projects  
+### 🎨 Current Setup
+```text
+██████████████████  ██████   OS: Arch Linux
+██████████████████  ██████   WM: dwm
+██████████████████  ██████   Shell: zsh
+██████████████████  ██████   Terminal: Alacritty
+██████████████████  ██████   Editor: Neovim
+██████████████████  ██████   Theme: Catppuccin
+```
 
-Here are some of my proudest creations:  
-- **[nvim-config](https://github.com/Vasant-rawat/nvim-config)**: My carefully crafted Neovim configuration featuring LSP, TreeSitter, and custom keybindings
-- **[dwm-readytoUse-Config](https://github.com/Vasant-rawat/dwm-readytoUse-Config)**: A pre-configured dwm setup for fellow minimalists
-- **[Dotfiles](https://github.com/Vasant-rawat/dotfiles)**: My personal dotfiles, featuring configurations for Neovim, tmux, zsh, and more
-- **[Scripts](https://github.com/Vasant-rawat/scripts)**: A collection of shell scripts for everyday automation
+</td>
+</tr>
+</table>
 
----
+## 🚀 Current Projects
 
-## 📊 GitHub Stats  
+<table>
+<tr>
+<td width="50%">
 
-![Vasant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasant-rawat&show_icons=true&theme=catppuccin)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasant-rawat&layout=compact&theme=catppuccin)  
+<h3 align="center">🔮 Neovim Config</h3>
+<div align="center">
+  <a href="https://github.com/Vasant-rawat/nvim-config" target="_blank">
+    <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark-flat.png" width="100" alt="Neovim Logo"/>
+  </a>
+  <p><strong>My meticulously crafted Neovim setup</strong></p>
+  <p>Because every keystroke should feel magical ✨</p>
+</div>
 
----
+</td>
+<td width="50%">
 
-## 🎯 Goals for 2025  
-- Contribute to **Neovim plugins and core functionality**
-- Create and share **innovative CLI tools**
-- Build a **personal blog** focusing on Neovim tips, Linux customization, and programming insights
-- Master **Lua** for advanced Neovim configuration
-- Contribute to **open-source window manager projects**
+<h3 align="center">🎨 dwm Configuration</h3>
+<div align="center">
+  <a href="https://github.com/Vasant-rawat/dwm-readytoUse-Config" target="_blank">
+    <img src="https://raw.githubusercontent.com/Vasant-rawat/dwm-readytoUse-Config/master/dwm.png" width="100" alt="dwm Logo"/>
+  </a>
+  <p><strong>A minimal, yet powerful dwm setup</strong></p>
+  <p>Where form meets function 🎯</p>
+</div>
 
----
+</td>
+</tr>
+</table>
 
 ## 💻 Favorite Neovim Plugins
-- **telescope.nvim**: Because life's too short for `find`
-- **nvim-treesitter**: Making syntax highlighting beautiful
-- **nvim-lspconfig**: Because who doesn't love intelligent code****
+
+<div align="center">
+
+| Plugin | What it Does | Why I Love It |
+|--------|-------------|---------------|
+| 🔭 **telescope.nvim** | Fuzzy finding everything | *Because life's too short for `find`* |
+| 🌳 **nvim-treesitter** | Advanced syntax highlighting | *Making code beautiful again* |
+| 🧠 **nvim-lspconfig** | Language server protocol | *Intelligence built-in* |
+| 🎯 **which-key.nvim** | Keybinding helper | *Never forget a mapping* |
+| 📦 **lazy.nvim** | Plugin manager | *Keeping things snappy* |
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasant-rawat&show_icons=true&theme=catppuccin"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasant-rawat&layout=compact&theme=catppuccin"/>
+</div>
+
+## 🎯 2025 Goals
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((2025 Goals))
+    Neovim
+      Contribute to core
+      Create plugins
+      Master Lua
+    Development
+      Learn Rust
+      CLI Tools
+      Android Apps
+    Community
+      Tech Blog
+      YouTube Channel
+      Open Source
+```
+
+</div>
+
+## 🎵 What's Playing
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOURUSERID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasant.rawat@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CommandLineVasant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasant-rawat)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/VimWarrior)
+
+</div>
+
+## 🎮 Fun Facts
+
+> 💡 Once wrote a script to automate my coffee breaks... still working on the hardware part
+
+> 🔧 Spent 48 hours ricing my desktop, forgot to save the config... twice
+
+> 🐧 Got so used to vim keybindings, tried to use `:w` to save a paper document
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+![Snake animation](https://github.com/Vasant-rawat/Vasant-rawat/blob/output/github-contribution-grid-snake.svg)
+
+### 🏆 Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vasant-rawat&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+  
+*Thanks for dropping by! Feel free to [star ⭐](https://github.com/Vasant-rawat) my repos if you find them interesting!*
+
+<img src="https://komarev.com/ghpvc/?username=Vasant-rawat&color=blueviolet" alt="Profile views"/>
+
+</div>
