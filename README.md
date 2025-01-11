@@ -73,7 +73,7 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
 
 <h3 align="center">🔮 Neovim Config</h3>
 <div align="center">
-  <a href="https://github.com/Vasant-rawat/nvim-config" target="_blank">
+  <a href="https://github.com/Vasant-rawat/Basice-nvim-config-for-beginner" target="_blank">
     <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark-flat.png" width="100" alt="Neovim Logo"/>
   </a>
   <p><strong>My meticulously crafted Neovim setup</strong></p>
