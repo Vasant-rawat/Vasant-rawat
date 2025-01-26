@@ -3,7 +3,8 @@
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CommandLineVasant)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasant-rawat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vasant-rawat-67a408285)
+
 
 
 ### 🧙‍♂️ Command-Line Wizard | 🚀 Neovim Enthusiast | 🐧 Linux Artisan
