@@ -9,7 +9,7 @@
 
 ### 🧙‍♂️ Command-Line Wizard | 🚀 Neovim Enthusiast | 🐧 Linux Artisan
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CE4F7&center=true&vCenter=true&width=435&lines=Neovim+Enthusiast;CLI+Wizard;Linux+Power+User;dwm+Ricing+Addict;Automation+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CE4F7&center=true&vCenter=true&width=435&lines=Neovim+Enthusiast;CLI+Wizard;Linux+Power+User;dwm+Ricing+Addict;)
 
 </div>
 
