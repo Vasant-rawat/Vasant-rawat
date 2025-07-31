@@ -22,7 +22,7 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
 <div align="center">
 
 ### 🛠 Tech Arsenal
-![Docker](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png)
+![Docker](https://img.shields.io/badge/docker-%237F52FF.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
