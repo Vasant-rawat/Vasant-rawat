@@ -22,14 +22,14 @@ Hey there! 👋 I'm that developer who thinks GUIs are overrated and terminal is
 <div align="center">
 
 ### 🛠 Tech Arsenal
-![Docker](https://img.shields.io/badge/docker-%237F52FF.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Node Js](https://img.shields.io/badge/nodejs-%23121011.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
