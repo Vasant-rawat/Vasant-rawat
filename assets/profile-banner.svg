@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Vasant Rawat — Linux, Neovim, and automation</title>
+  <desc id="desc">A dark terminal-inspired banner with a glowing cyan and violet gradient, a keyboard-first tagline, and a Fedora terminal window.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020" />
+      <stop offset="0.56" stop-color="#111b32" />
+      <stop offset="1" stop-color="#17152b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9" />
+      <stop offset="1" stop-color="#a78bfa" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#6366f1" stop-opacity=".28" />
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#a5b4fc" stroke-opacity=".055" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="26" fill="url(#background)" />
+  <rect width="1200" height="340" rx="26" fill="url(#grid)" />
+  <circle cx="1040" cy="30" r="360" fill="url(#glow)" />
+  <path d="M0 306C210 260 376 366 614 306s407-25 586-81" fill="none" stroke="url(#accent)" stroke-opacity=".22" stroke-width="2" />
+
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+    <text x="76" y="92" fill="#67e8f9" font-size="15" font-weight="700" letter-spacing="3">TERMINAL-FOCUSED · KEYBOARD-FIRST</text>
+    <text x="72" y="163" fill="#f8fafc" font-size="58" font-weight="750" letter-spacing="-2">Vasant Rawat</text>
+    <text x="76" y="207" fill="#cbd5e1" font-size="21">Linux, Neovim, and the joy of automating things.</text>
+    <rect x="76" y="244" width="236" height="38" rx="19" fill="#67e8f9" fill-opacity=".1" stroke="#67e8f9" stroke-opacity=".32" />
+    <text x="94" y="269" fill="#a5f3fc" font-size="14" font-weight="650" letter-spacing="1">WELCOME TO MY WORKSPACE</text>
+  </g>
+
+  <g transform="translate(720 58)">
+    <rect width="405" height="224" rx="16" fill="#080d18" fill-opacity=".88" stroke="#94a3b8" stroke-opacity=".25" />
+    <path d="M0 48H405" stroke="#94a3b8" stroke-opacity=".2" />
+    <circle cx="24" cy="24" r="5" fill="#fb7185" />
+    <circle cx="43" cy="24" r="5" fill="#fbbf24" />
+    <circle cx="62" cy="24" r="5" fill="#34d399" />
+    <text x="87" y="29" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">vasant@fedora: ~</text>
+    <text x="28" y="91" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">$ printf "focus: %s\n" "Linux + Neovim"</text>
+    <text x="28" y="121" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">focus: Linux + Neovim</text>
+    <text x="28" y="161" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">$ automate --everyday-things</text>
+    <rect x="29" y="179" width="9" height="18" rx="2" fill="#a78bfa" />
+  </g>
+</svg>
